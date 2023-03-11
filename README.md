@@ -1,2 +1,2 @@
 # Cadastro de Devs
- BackEnd de um sistema de cadastro em JavaScript
+ BackEnd de um sistema de cadastro em JavaScript.
